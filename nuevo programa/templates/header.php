@@ -5,7 +5,7 @@
 <!-- Contenedor -->
         <div class="container-fluid">
             <!-- Marca -->
-            <a class="navbar-brand" href="#"> Tienda :) </a>
+            <a class="navbar-brand" href="#"> Tienda  </a>
             <!-- Botón de navegación para pantallas pequeñas -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
